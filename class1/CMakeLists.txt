@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5.0)
+cmake_minimum_required(VERSION 3.22.1)
 project(class1 VERSION 0.1.0 LANGUAGES C CXX)
 
 # 生成动态库
